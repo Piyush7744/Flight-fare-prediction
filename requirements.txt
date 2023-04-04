@@ -3,7 +3,7 @@ streamlit
 gevent
 pandas
 numpy
-sklearn
+scikit-learn
 matplotlib
 streamlit
 scipy
